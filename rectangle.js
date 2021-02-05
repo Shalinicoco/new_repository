@@ -12,3 +12,5 @@ class Rectangle extends Shape{
     }
 }
 module.exports = Rectangle
+
+//Rectangle exported as a module
